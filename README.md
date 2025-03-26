@@ -12,7 +12,7 @@ This project uses:
 
 ## 🔧 Requirements
 
-- Python 3.6+
+- Python 3.10+
 - Ollama running locally (for Ollama implementation)
 - OpenAI API key (for OpenAI implementation)
 - Llama3.2 model downloaded in Ollama
